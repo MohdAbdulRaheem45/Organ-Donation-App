@@ -83,7 +83,7 @@ This app helps users find compatible donors/recipients based on blood group and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/organ-donation-app.git
+git clone https://github.com/MohdAbdulRaheem45/organ-donation-app.git
 ```
 
 2. Open project in Android Studio
